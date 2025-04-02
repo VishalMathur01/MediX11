@@ -24,7 +24,7 @@ DecaHealth AI is a comprehensive **machine learning and deep learning-driven** h
 | **early_stage_detection.ipynb** | Identifies diseases at an early stage for better prognosis. |
 | **eye_disease_detection.ipynb** | Deep learning for detecting eye-related diseases from images. |
 | **heart_disease_prediction.ipynb** | Predicts heart disease risk using patient health metrics. |
-| **pub_med_scraper.ipynb** | Web scraper for collecting medical research data from **PubMed**. |
+| **PubMedScrapper_Combined_Summary.ipynb** | Project for collecting medical research data from **PubMed** and provide it's summarized texts. |
 
 ---
 
