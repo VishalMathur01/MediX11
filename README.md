@@ -68,3 +68,7 @@ MediX11 is a comprehensive **machine learning and deep learning-driven** health 
 👨‍💻 Vishal Sarup Mathur  
 📧 Contact: official.vishal.sarup.mathur.1@gmail.com  
 
+👨‍💻 Aditya Singh  
+📧 Contact: csaditya038@gmail.com  
+
+
